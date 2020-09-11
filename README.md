@@ -1,4 +1,5 @@
 # ArrayNormalizer
+Short code to normalize an array. One of my first .c programs with arrays.
 
 ## How to run code
 For this code to work, drag and drop any of these .c files into a c programming compiler, the code for us was written on a software called Geany. 
